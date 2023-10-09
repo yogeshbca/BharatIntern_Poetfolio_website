@@ -1,4 +1,4 @@
-# BharatIntern_Poetfolio_website
+# BharatIntern_Portfolio_website
 Web Development Inetrn at BharatIntern
 # Yogesh T - Portfolio Website Development Intern
 
